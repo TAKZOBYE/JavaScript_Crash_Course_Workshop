@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+input {
+    margin: 2rem;
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 50%;
+    height: 50px;
+    padding: 6px;
+}
+
+input:focus {
+    outline: none;
+}
+
+.gallery {
+
+}
